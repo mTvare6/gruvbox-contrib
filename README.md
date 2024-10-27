@@ -144,7 +144,8 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Wallpapers
 
 - [mtvare6's list](https://github.com/mTvare6/gruvbox-wallpaper)
-- [AngelJumbo's list, which just copied most of mtvare6's without linking back](https://github.com/AngelJumbo/gruvbox-wallpapers)
+- [AngelJumbo's list](https://github.com/AngelJumbo/gruvbox-wallpapers)
+- [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
 
 ### Midnight Commander
 
