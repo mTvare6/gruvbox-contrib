@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox.svg?sanitize=true"></p>
+# gruvbox-contrib
 
-gruvbox contributions, ports and extras
+[gruvbox contributions, ports and extras](https://github.com/morhetz/gruvbox-contrib)
 
 Palette
 -------
@@ -140,6 +140,11 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Gruvbox Themes by Tom Philbin](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes)
 - [Gruvbox Minor by adamsome](https://marketplace.visualstudio.com/items?itemName=adamsome.vscode-theme-gruvbox-minor)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark)
+
+### Wallpapers
+
+- [mtvare6's list](https://github.com/mTvare6/gruvbox-wallpaper)
+- [AngelJumbo's list, which just copied most of mtvare6's without linking back](https://github.com/AngelJumbo/gruvbox-wallpapers)
 
 ### Midnight Commander
 
